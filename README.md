@@ -2,7 +2,7 @@
 
 Hello! This is a place for us to collaborate on programming projects<br/>
 Our main programming language is <b>Python 3</b><br/>
-We suggest you use PyCharm as your development environment: https://www.jetbrains.com/pycharm/<br/><br/>
+I suggest you use <b>PyCharm</b> as your development environment: https://www.jetbrains.com/pycharm/<br/><br/>
 For right now, we are going to start off with Project Euler. The plan is to have everyone working on the earlier problems individually and learning by sharing each other's work. For harder problems, we can have everyone working collaboratively.
 
 <h2>How to set stuff up</h2>
