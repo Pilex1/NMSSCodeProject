@@ -1,6 +1,8 @@
-# NMSSCodeProject
+# NMSS Code Project
 
-Hello!
+Hello! This is a place for us to collaborate on programming projects.<br/>
+<b>test</b>
+For right now, we are going to start off with Project Euler
 
 # How to set stuff up
 
