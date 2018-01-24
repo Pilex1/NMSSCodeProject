@@ -17,7 +17,7 @@ Click "Clone" and you're done!<br/>
 Try changing something (e.g. editing a file, creating a new file, etc.)<br/>
 You should now see your changes appear in the "Changes" tab.<br/>
 To confirm those changes, you need to write down a brief summary of what changes you've made in the "Summary" textbox, then click on the "Commit to master" button.<br/>
-To upload and share those changes, click on the "Fetch origin"/"Pull"/"Push" tab at the top.
+To upload and share those changes, look to the top, in the third tab. Click on the "Fetch origin", then "Pull origin", then "Push origin".<br/>
 
 <h2>Project Euler</h2>
 Place your Python files into the "Project Euler" folder.
