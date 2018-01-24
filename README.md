@@ -1,10 +1,10 @@
 <h1>NMSS Code Project</h1>
 
 Hello! This is a place for us to collaborate on programming projects.<br/>
-<b>test</b>
-For right now, we are going to start off with Project Euler
+Our main programming language is <b>Python 3</b><br/><br/>
+For right now, we are going to start off with Project Euler. The plan is to have everyone working on the earlier problems individually and learning by sharing each other's work. For harder problems, we can have everyone working collaboratively.
 
-# How to set stuff up
+<h2>How to set stuff up</h2>
 
 Download and install GitHub Desktop:
 https://desktop.github.com/
