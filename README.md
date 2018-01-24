@@ -7,8 +7,8 @@ Hello!
 Download and install GitHub Desktop:
 https://desktop.github.com/
 
-Open it up.
-At the top toolbar, click on "File" -> "Clone Repository" -> "URL"
+Open it up<br/>
+At the top toolbar, click on "File" -> "Clone Repository" -> "URL"<br/>
 Then enter https://github.com/Pilex1/NMSSCodeProject for the URL, and choose an appropriate location for the local path (this is where all the files are going to be stored)
 Click "Clone" and you're done!
 
