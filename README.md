@@ -7,11 +7,10 @@ Hello!
 Download and install GitHub Desktop:
 https://desktop.github.com/
 
-Open it up<br/>
 At the top toolbar, click on "File" -> "Clone Repository" -> "URL"<br/>
-Then enter https://github.com/Pilex1/NMSSCodeProject for the URL, and choose an appropriate location for the local path (this is where all the files are going to be stored)
-Click "Clone" and you're done!
-
-Try changing something (e.g. editing a file, creating a new file, etc.)
-You should now see your changes appear in the "Changes" tab.
-To confirm those changes, you need to write down a brief summary of what changes you've made in the "Summary" textbox, then click on the "Commit to master" button.
+Then enter https://github.com/Pilex1/NMSSCodeProject for the URL, and choose an appropriate location for the local path (this is where all the files are going to be stored)<br/>
+Click "Clone" and you're done!<br/>
+<br/>
+Try changing something (e.g. editing a file, creating a new file, etc.)<br/>
+You should now see your changes appear in the "Changes" tab.<br/>
+To confirm those changes, you need to write down a brief summary of what changes you've made in the "Summary" textbox, then click on the "Commit to master" button.<br/>
