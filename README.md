@@ -22,4 +22,4 @@ To upload and share those changes, look to the top, in the third tab. Click on t
 <h2>Project Euler</h2>
 Place your Python files into the "Project Euler" folder.
 Please use the following naming convention so we can stay organised:
-E.g. I am Alex T, and I'm working on Problem 25, so I'm going to name my file <i>25_Alex T.py<i> and put it in the Project Euler folder.
+E.g. I am Alex T, and I'm working on Problem 25, so I'm going to name my file <i>25_Alex T.py</i> and put it in the Project Euler folder.
