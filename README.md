@@ -20,4 +20,6 @@ To confirm those changes, you need to write down a brief summary of what changes
 To upload and share those changes, click on the "Fetch origin"/"Pull"/"Push" tab at the top.
 
 <h2>Project Euler</h2>
-Place your Python files into the "Project Euler" folder with the following naming convention:
+Place your Python files into the "Project Euler" folder.
+Please use the following naming convention so we can stay organised:
+E.g. I am Alex T, and I'm working on Problem 1, so I'm going to name my file <i>1_Alex T.py<i>
