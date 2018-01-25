@@ -1,20 +1,55 @@
+Functions:
 Complex
   ^
   |
 Knot Untangler
 Math Expression Interpreter - there's this super awesome expression interpreter for JavaScript. it's called mathjs http://mathjs.org/
+Electrical circuit sim
 Physics Problem Solver
 Fluid/Waves Sim
+Graphics (depending on the extensiveness of the graphics engine)
 Fluidbody Sim
-Graphics
 Rigidbody Sim
+Configurable dataplotter
 Fractals
+Cellular automata engine
 ...
 ...
 ...
+
+Prime Factorisation Algorithm
+Power Table Generator (mod n)
 Inverse Finder (mod n)
-Project Euler
+Project Euler (everyone can do these, But solutions can be posted if people need help)
 Euclidean Algorithm
+  |
+  V
+Simple
+
+Objects (concepts that may be used in multiple problems. Compatibility must be to a high standard):
+Due to the standards that these data structures that must be built to, the problems are by nature harder
+Complex
+  ^
+  |
+  
+  Algebraic Expression 
+  Knot
+  Polynomial (allow negative indices)
+  Polynomial (allow fractional indices
+  Arbitrary precision float
+  ...
+  ...
+  ...
+  Matrix/Tensor (extension of vector)
+  Z_[f(n)]_z
+  Z_n[x]_P(x)
+  Z_n
+  ^generalization of all possible Z based number systems
+  Quaternion
+  n dimensional Vector
+  Complex number
+  Fraction  
+
   |
   V
 Simple
