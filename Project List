@@ -7,7 +7,7 @@ Math Expression Interpreter - there's this super awesome expression interpreter 
 Electrical circuit sim
 Physics Problem Solver
 Fluid/Waves Sim
-Graphics (depending on the extensiveness of the graphics engine)
+Graphics (difficulty depends on the extensiveness of the graphics engine)
 Fluidbody Sim
 Rigidbody Sim
 Configurable dataplotter
