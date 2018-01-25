@@ -10,7 +10,7 @@ I recommend you watch these videos at 2x speed. https://www.youtube.com/watch?v=
 
 <h2>Setting up GitHub</h2>
 Download and install GitHub Desktop:
-https://desktop.github.com/<br/?
+https://desktop.github.com/<br/>
 At the top toolbar, click on "File" -> "Clone Repository" -> "URL"<br/>
 Then enter https://github.com/Pilex1/NMSSCodeProject for the URL, and choose an appropriate location for the local path (this is where all the files are going to be stored)<br/>
 Click "Clone" and you're done!<br/>
