@@ -6,7 +6,13 @@ I suggest you use <b>PyCharm</b> as your development environment: https://www.je
 For right now, we are going to start off with Project Euler. See below for more info.
 
 <h2>Learning Python 3</h2>
-I recommend you watch these videos at 2x speed. https://www.youtube.com/watch?v=hnxIRVZ0EyU&list=PL6gx4Cwl9DGAcbMi1sH6oAMk4JHw91mC_&index=2
+Thenewboston:
+Goes through everything step by step. Good for beginners.
+https://www.youtube.com/watch?v=hnxIRVZ0EyU&list=PL6gx4Cwl9DGAcbMi1sH6oAMk4JHw91mC_&index=2
+
+Derek Banas:
+Covers the entire language in 40 minutes (more suited towards experienced programmers that want to learn Python quickly)
+https://www.youtube.com/watch?v=N4mEzFDjqtA
 
 <h2>Setting up GitHub</h2>
 Download and install GitHub Desktop:
