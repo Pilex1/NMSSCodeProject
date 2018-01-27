@@ -25,7 +25,7 @@ Prime Factorisation Algorithm
 Power Table Generator (mod n)
 Inverse Finder (mod n)
 Project Euler (everyone can do these, But solutions can be posted if people need help)
-Euclidean Algorithm
+Euclidean Algorithm-done
   |
   V
 Simple
@@ -51,7 +51,7 @@ Complex
   ^generalization of all possible Z based number systems
   Quaternion
   n dimensional Vector
-  Complex number
+  Complex number-more than enough libraries for complex numbers
   Fraction  
 
   |
