@@ -1,3 +1,5 @@
+# author joanne ng
+
 # Euclidean Algorithm to find gcd
 
 def gcd(a,b):

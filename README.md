@@ -3,7 +3,9 @@
 Hello! This is a place for us to collaborate on programming projects<br/>
 Our main programming language is <b>Python 3</b>: https://www.python.org/downloads/ (v 3.6.4)<br/>
 
-I suggest you use <b>PyCharm Community Edition</b> as your development environment: https://www.jetbrains.com/pycharm/<br/><br/>
+I suggest you use <b>PyCharm Community Edition</b> as your development environment: https://www.jetbrains.com/pycharm/<br/>
+
+<b>If this is your first time here, please message me (Alex Tan) on Facebook, so I can add you as a collaborator. In this way you can edit the repository directly (otherwise you need to submit pull requests).</b><br/>
 
 Later we will try collaborative work on a python math library (see project list for details), but that will not commence until people get to grips with the language and we set up rules and protocol for development.<br/>
 For right now, we are going to start off with Project Euler only. See sections below for more info.
