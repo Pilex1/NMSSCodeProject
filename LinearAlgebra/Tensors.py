@@ -1,7 +1,7 @@
 __author__ = 'My Computer'
-import math
-
 #currently limited to 2D matrices, nD tensors are wtf
+# In theory a incompatblesize error should be defined for operations like a*b , but ill do it later
+
 class Matrix:
 
 
@@ -81,8 +81,18 @@ class Matrix:
         pass
 
     # gorssian eliminaton
+    # am aware nonsquare matrices dont have explicit inverse.
     def inverse(self):
         pass
+
+
+    #iverses for nonsquare matrices. Square matrices should get the same result for leftinverse() ,rightinverse() and inverse()
+    def rightinverse(self):
+        pass
+
+    def leftinverse(self):
+        pass
+
 
     def transpose(self):
         pass
