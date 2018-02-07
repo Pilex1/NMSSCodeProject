@@ -85,7 +85,7 @@ class Matrix:
     def inverse(self):
         pass
 
-
+    # dont know how I would implement this myself
     #iverses for nonsquare matrices. Square matrices should get the same result for leftinverse() ,rightinverse() and inverse()
     def rightinverse(self):
         pass
@@ -99,6 +99,17 @@ class Matrix:
 
     def det(self):
         pass
+
+    #returns list of eigenvalues
+    def eigenvalues(self):
+        pass
+
+    #returns list of eigenvectors and eigenvalues
+    def eigenvectors(self):
+        pass
+
+
+
 
 
 
