@@ -1,0 +1,5 @@
+c(n,x)=mod(seq(n^i,i,1,x-1),x)
+Z(x)=c(seq(i,i,1,x-1),x)
+
+x is the number you want to find the modulus of.
+
